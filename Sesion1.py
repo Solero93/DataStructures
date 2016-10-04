@@ -1,5 +1,5 @@
 # Entrega 1: 100 películas
-# Programa hecho por: Christian José Soler
+# Programa hecho por:  
 # Grupo F, Estructuras de Datos
 
 

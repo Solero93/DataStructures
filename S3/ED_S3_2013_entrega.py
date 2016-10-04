@@ -1,4 +1,4 @@
-# Made by: Christian José Soler
+# Made by:  
 # Entrega 3: Stacks and Queues
 # Estructures de Dades, Grup F
 

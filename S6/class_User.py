@@ -1,6 +1,6 @@
 from class_Artist import Artist
 
-# Christian Jose Soler: Estructura de Datos
+# Estructura de Datos
 # Grupo F: Lunes
 # Practica 4: Tkinter y Colas
 
